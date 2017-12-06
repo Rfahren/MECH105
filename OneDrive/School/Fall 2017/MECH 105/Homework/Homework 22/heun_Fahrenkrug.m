@@ -48,7 +48,7 @@ for i=1:m
 end
 % plots
 plot(t,y);
-%title('Proof of rise in failed condoms')
+title('Population Model')
 xlabel('Time')
 ylabel('Population')
 end
